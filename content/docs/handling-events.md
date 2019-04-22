@@ -7,6 +7,7 @@ next: conditional-rendering.html
 redirect_from:
   - "docs/events-ko-KR.html"
 ---
+WASSUP??
 
 Handling events with React elements is very similar to handling events on DOM elements. There are some syntactic differences:
 
@@ -152,3 +153,5 @@ Inside a loop it is common to want to pass an extra parameter to an event handle
 The above two lines are equivalent, and use [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) and [`Function.prototype.bind`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind) respectively.
 
 In both cases, the `e` argument representing the React event will be passed as a second argument after the ID. With an arrow function, we have to pass it explicitly, but with `bind` any further arguments are automatically forwarded.
+
+THE END. Thank you.
